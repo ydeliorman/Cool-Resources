@@ -45,7 +45,7 @@ https://pub.dev/packages/intro_slider
 https://pub.dev/packages/scratcher
 https://pub.dev/packages/fl_chart
 https://pub.dev/packages/cached_network_image
-https://pub.dev/packages/lottie - lottiefiles.com/featured, https://www.lottieflow.com/
+https://pub.dev/packages/lottie - Resources: lottiefiles.com/featured - https://www.lottieflow.com/
 
 # Links
 https://mobbin.design/
