@@ -20,6 +20,14 @@
 * https://iconfinder.com
 * https://iconbros.com
 
+## Color pickers
+* https://colors.muz.li/
+  * has mobile preview, no color gen
+* http://colormind.io/template/material-dashboard/
+  * has web preview, no color gen
+* https://paletton.com/#uid=10x0u0kllllaFw0g0qFqFg0w0aF
+  * best color gen, meh preview
+
 ## Tools
 * https://www.screely.com/ 
   * screenshot to website
