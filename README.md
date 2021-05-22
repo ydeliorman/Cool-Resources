@@ -44,6 +44,7 @@
 * https://characterz.design/
 
 ## Pub.dev
+* https://pub.dev/packages/lints
 * https://pub.dev/packages/device_preview
 * https://pub.dev/packages/dough
 * https://pub.dev/packages/tutorial_coach_mark
